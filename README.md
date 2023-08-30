@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋, I'm Adarsh J Shetty</h1>
+<h1 align="center">Hi 👋, I'm Adarsh J Shetty</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
 - 🌱 I’m currently learning **react,next.js**
